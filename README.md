@@ -1,2 +1,2 @@
 # Nexthike_Project03
-EDA on a set of Housing data
+EDA on Housing data and to check which variables are impacting house price
