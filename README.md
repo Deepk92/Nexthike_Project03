@@ -23,7 +23,7 @@ Methods and Analysis:-
 7. Correlation analysis- Calculated and Visualized correlation between numerical features, Used a heatmap to identify strong relationships.
 
 Conclusion:-
-With all the different graphs and plots and EDA techniques we applied on the Housing Price Dataset, we obsered that the 'OverallQual', 'GrLivArea', and 'TotalBsmtSF' are strongly correlated with SalePrice.
+With all the different graphs and plots and EDA techniques we applied on the Housing Price Dataset, we observed that the 'OverallQual', 'GrLivArea', and 'TotalBsmtSF' are strongly correlated with SalePrice.
 
 'Neighborhood', 'HouseStyle','GarageCars' and 'GarageArea' are also correlated variables. As these change they also affect the price of the house in a positive manner.
 
