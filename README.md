@@ -10,7 +10,7 @@ The data has many missing values and outliers.
 
 Project Goal:-
 1. Explore the Housing Price Dataset.
-2. Analyze and Visualize the dataset with vairous plots and graphs.
+2. Analyze and Visualize the dataset with various plots and graphs.
 3. By performing EDA we have to check and conclude that which variable are impacting the house's price.
 
 
