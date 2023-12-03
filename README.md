@@ -25,7 +25,7 @@ Methods and Analysis:-
 Conclusion:-
 With all the different graphs and plots and EDA techniques we applied on the Housing Price Dataset, we observed that the 'OverallQual', 'GrLivArea', and 'TotalBsmtSF' are strongly correlated with SalePrice.
 
-'Neighborhood', 'HouseStyle','GarageCars' and 'GarageArea' are also correlated variables. As these change they also affect the price of the house in a positive manner.
+'Neighborhood', 'HouseStyle','GarageCars', 'YearBuilt', 'GarageYrBuilt', 'YearRemodAdd' and 'GarageArea' are also correlated variables. As these change they also affect the price of the house in a positive manner.
 
 
 
