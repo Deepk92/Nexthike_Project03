@@ -19,7 +19,7 @@ Methods and Analysis:-
 3. Identifying the types of variables (Numerical, Categorical, Temporal etc.)
 4. Computing summary statistics for numerical variables (Mean, median, mode, Std Deviation, min, max etc.)
 5. Explored the distribution of numerical features using histogram, scattered, bar and kernal density plots and line plots.
-6. Univariate analysis, Multivariate analysis using count plot, scatter, crosstab grouped bar chart, heatmap, boxplot, swarmplot and violin plots.
+6. Univariate analysis, Multivariate analysis using pairplot, count plot, scatter, crosstab grouped bar chart, heatmap, boxplot, swarmplot and violin plots.
 7. Correlation analysis- Calculated and Visualized correlation between numerical features, Used a heatmap to identify strong relationships.
 
 Conclusion:-
