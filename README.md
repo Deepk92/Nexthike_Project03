@@ -14,7 +14,7 @@ Project Goal:-
 3. By performing EDA we have to check and conclude that which variables are impacting the house's price.
 
 Methods and Analysis:-
-1. Python Libraries Used - Numpy, Pandas, Matplotlib, Seaborn in the Jupiter Notebook Environment.
+1. Python Libraries Used - Numpy, Pandas, Matplotlib, Seaborn in the Jupyter Notebook Environment.
 2. Examined the structure of the dataset, Including the number of Rows and Columns, Checked for missing values and decided on a strategy for handling them.
 3. Identifying the types of variables (Numerical, Categorical, Temporal etc.)
 4. Computing summary statistics for numerical variables (Mean, median, mode, Std Deviation, min, max etc.)
